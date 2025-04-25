@@ -8,6 +8,9 @@
   },
   "dependencies": {
     "express": "^4.18.2",
-    "cors": "^2.8.5"
+    "cors": "^2.8.5",
+     "venom-bot": "^5.0.5"
+    
   }
 }
+
